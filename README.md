@@ -1,14 +1,10 @@
 TO-DO APP
 A simple, user-friendly To-do App done with React Native
 
-PicsArt_07-16-06 53 52
-
 About this App
-This is a simple todo app where u can add your tasks and bucket list in one pace
+This is a simple todo app where u can add your tasks and bucket list in one place
 
 Required dependencies are given below.
-
-The required dependencies of the app are given as a command below
 
 npm install react-navigation
 npm install react-native-vector-icons
@@ -28,8 +24,15 @@ Video Demonstration:
 
 
 
+https://user-images.githubusercontent.com/86832615/126046360-ef8ef94d-65f6-46b2-a7f6-759b7d1a24e1.mp4
+
+
+
+
+
 There are 3 screens in this application
 Home Screen
+
 Here the user inputs commands and add it to the task screen
 
 It has got blue background with a heading
@@ -38,20 +41,14 @@ Added and image to represent company.
 
 The tasks button in bottom tab takes you to taskscreen
 
-The ripple effect is also added.
-
-You can check out the HomeScreen screenrecording in the Output Video folder.
-
 To-do List
-Input yout text in the text input section and add your work.
 
-You can mark it completed or delete it or uncomplete it with the respective icons.
+Input your task in the Enter input section and press add.
 
-If you didn't add any text and click the + floating icon, it shows an alert screen.
+You can find output in tasks section.
 
-If you click the delete all icon, it will ask your comformation about the process.
+You will have delete option to delete your task when necessary.
 
-Ripple effect is also added in each flatlist.
-
-Alert Boxes
+About screen
+ Brief on features and our team
 
