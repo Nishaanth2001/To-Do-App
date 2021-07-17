@@ -1,7 +1,9 @@
 TO-DO APP
+
 A simple, user-friendly To-do App done with React Native
 
 About this App
+
 This is a simple todo app where u can add your tasks and bucket list in one place
 
 Required dependencies are given below.
