@@ -7,17 +7,29 @@ This is a simple todo app where u can add your tasks and bucket list in one plac
 Required dependencies are given below.
 
 npm install react-navigation
+
 npm install react-native-vector-icons
+
 npm install react-native-screens
+
 npm install react-native-safe-area-context
+
 npm install react-native-paper
+
 npm install react-native-gesture-handler
+
 npm install @react-navigation/material-bottom-tabs
+
 npm install @react-navigation/stack
+
 npm install @react-navigation/native
+
 npm install @react-native-community/masked-view
+
 npm install @react-native-async-storage/async-storage
+
 npm install @react-navigation/native
+
 npm install react-native-reanimated
 
 Video Demonstration:
