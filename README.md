@@ -43,6 +43,7 @@ https://user-images.githubusercontent.com/86832615/126046360-ef8ef94d-65f6-46b2-
 
 
 There are 3 screens in this application
+
 Home Screen
 
 Here the user inputs commands and add it to the task screen
@@ -62,5 +63,6 @@ You can find output in tasks section.
 You will have delete option to delete your task when necessary.
 
 About screen
- Brief on features and our team
+
+Brief on features and our team
 
